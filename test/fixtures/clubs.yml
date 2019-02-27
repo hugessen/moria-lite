@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: 
+  slug: 
+  description: 
+  app_logo: 
+  app_banner: 
+  active: false
+
+two:
+  name: 
+  slug: 
+  description: 
+  app_logo: 
+  app_banner: 
+  active: false
